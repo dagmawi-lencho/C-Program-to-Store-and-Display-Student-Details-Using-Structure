@@ -6,7 +6,7 @@ using namespace std;
 struct Student {
     string name;
     string id;
-    float mark;
+    float mark;s
 };
 
 float readFloat(const string& prompt) {
@@ -39,3 +39,4 @@ int main() {
 
     return 0;
 }
+
